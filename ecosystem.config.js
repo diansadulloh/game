@@ -8,7 +8,7 @@ module.exports = {
     },
     env_production: {
       NODE_ENV: 'production',
-      SITE_URL: 'https://delaford.com',
+      SITE_URL: 'https://game-umber.vercel.app',
     },
   }],
 };
